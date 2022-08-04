@@ -14,5 +14,6 @@ hellow atguigu! hellow git!
 hellow atguigu! hellow git!
 hellow atguigu! hellow git!
 hellow atguigu! hellow git!
+<<<<<<< HEAD
 hellow atguigu! hellow git! master test
-hellow atguigu! hellow git!
+hellow atguigu! hellow git! hot-fix test
